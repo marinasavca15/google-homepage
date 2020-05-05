@@ -1,0 +1,1 @@
+This project is a good way for me to learn precious new skills about HTML/CSS/JavaScript. Hopefully, at the end of the project I will demonstrate improved skills in this exciting area and I will be gladly sharing the results with my fellow colleagues. 
